@@ -7,8 +7,13 @@ https://github.com/vercel/next.js/tree/canary/examples
 
 ### Features
 
-- typescript
-- tailwind css
+Todo list
+
+- typescript ✅
+- tailwind css ✅
 - layout
 - API Routes Rate Limiting
 - white & dark mode
+
+typescript-prettier-eslint
+https://paulintrognon.fr/blog/typescript-prettier-eslint-next-js
